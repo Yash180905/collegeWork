@@ -1,0 +1,16 @@
+{
+  "name": "collagework",
+  "version": "1.0.0",
+  "description": "SchemaDB",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Yash raj",
+  "license": "ISC",
+  "dependencies": {
+    "mocha": "^9.1.0",
+    "mongoose": "^6.0.2",
+    "nodemon": "^2.0.12"
+  }
+}
